@@ -4,3 +4,4 @@ with a Halo theme.
 Purchase 'towers' on the right side of the game
 and place them along the path to destroy incoming
 enemies!
+*There is a runnable version of the game attached as the .jar file*
